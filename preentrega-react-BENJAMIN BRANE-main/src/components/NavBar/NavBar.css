@@ -1,0 +1,10 @@
+.Title{
+    display: flex;
+    justify-content: center;
+    height: 120px;
+}
+.nav-link{
+    font-size: 1rem;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: none;
+}

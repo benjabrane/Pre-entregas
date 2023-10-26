@@ -1,0 +1,7 @@
+body {
+  background-image: url(../public/img/peakpx.jpg);
+  background-size: cover;
+}
+.logo{
+  height: 130px;
+}

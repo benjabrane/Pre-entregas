@@ -1,0 +1,25 @@
+.titleDetail{
+    color: rgb(255, 94, 0);
+    font-family:'Courier New', Courier, monospace;
+}
+.priceDetail{
+    color: coral;
+    font-family:'Courier New', Courier, monospace;
+}
+.categoryDetail{
+    color: rgb(255, 129, 56);
+    font-family:'Courier New', Courier, monospace;
+}
+button {
+    background-color: #e64e07; 
+    border: none; 
+    color: rgb(0, 0, 0); 
+    padding: 10px 20px; 
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    font-family: cursive;
+}
